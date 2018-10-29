@@ -1,1 +1,1 @@
-[Link to index page](./index.html).
+[Link to index page](./index).
