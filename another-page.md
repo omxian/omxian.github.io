@@ -1,1 +1,5 @@
-[Link to index page](./index).
+---
+layout: default
+---
+
+[Link to index page](../index).
